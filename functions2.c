@@ -8,7 +8,7 @@
  * @width: get width
  * @precision: Precision specification
  * @size: Size specifier
- *
+ * authors: Rachael and Ruth
  * Return: Number of chars printed.
  */
 int print_pointer(va_list types, char buffer[],
