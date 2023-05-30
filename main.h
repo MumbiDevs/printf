@@ -41,6 +41,7 @@
 /**
  * struct fmt - Struct op
  *
+ *authors: Racheal and Ruth
  * @fmt: The format.
  * @fn: The function associated.
  */
