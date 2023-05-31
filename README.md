@@ -4,4 +4,4 @@ we were tasked with creating our own printf function using a variety of function
 
 authors:
 RACHEAL MAINA
-RUTH OSORO
+RUTH OSORO.
